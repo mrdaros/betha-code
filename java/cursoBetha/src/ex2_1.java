@@ -35,6 +35,5 @@ public class ex2_1 {
             default:
                 System.out.println("Não é um dia da semana.");
         }
-
     }
 }
